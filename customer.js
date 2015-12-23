@@ -158,6 +158,9 @@ define(function(require) {
 							},
 							"success" : function(resultData, xhr) {
 								alert("上传成功");
+								WeixinJSBridge.invoke('closeWindow', {}, function(res) {
+									 //alert(res.err_msg);
+								});
 							}
 						})
 					}
