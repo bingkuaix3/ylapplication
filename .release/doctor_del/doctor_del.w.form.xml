@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cJzInYr" component="$model/UI2/system/components/justep/window/window" design="device:pc" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __justepbasexid__="__baseID__" __cid="cJzInYr" components="$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/panel/panel,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/button/buttonGroup,$model/UI2/system/components/justep/textarea/textarea,$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cJzInYr" class="cJzInYr"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar cJzInYr" xid="panel4" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cJzInYr"> 
+    <div class="x-panel-top cJzInYr" xid="top2" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cJzInYr"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cJzInYr" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" data-config="{&quot;title&quot;:&quot;见好无忧（处理端）&quot;}" __cid="cJzInYr"> 
+        <div class="x-titlebar-left cJzInYr" xid="div1" __cid="cJzInYr"/>  
+        <div class="x-titlebar-title cJzInYr" xid="div2" style="" __cid="cJzInYr">见好无忧（处理端）</div>  
+        <div class="x-titlebar-right  cJzInYr" xid="div3" __cid="cJzInYr">
+          <div class="empty cJzInYr" __cid="cJzInYr"/>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cJzInYr" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cJzInYr"> 
+      <div class="x-contents x-full cJzInYr" xid="contents" id="contents" style="width:85%;margin-left:15%" __cid="cJzInYr"> 
+        <div id="a" style="margin-left:5%;margin-top:2%" __cid="cJzInYr" class="cJzInYr"/>  
+        <div id="b" style="margin-left:5%;margin-top:2%" __cid="cJzInYr" class="cJzInYr"/>  
+        <div id="c" style="margin-left:5%;margin-top:2%" __cid="cJzInYr" class="cJzInYr"/>  
+        <textarea component="$model/UI2/system/components/justep/textarea/textarea" class="form-control cJzInYr" xid="textarea1" id="textarea1" style="margin:5% 5% 0 40%;width:565px;height:149px;position: absolute;top: -5%" placeholder="病情分析：" data-bind="component:{name:'$model/UI2/system/components/justep/textarea/textarea'}" __cid="cJzInYr"/>  
+        <textarea component="$model/UI2/system/components/justep/textarea/textarea" class="form-control cJzInYr" xid="textarea2" id="textarea2" style="margin:10% 5% 0 40%;width:566px;height:150px;" placeholder="理疗方案：" data-bind="component:{name:'$model/UI2/system/components/justep/textarea/textarea'}" __cid="cJzInYr"/>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control cJzInYr" xid="input1" id="input1" style="margin:5% 5% 0 40%;height:27px;width:107px;" placeholder="合计金额：" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cJzInYr"/> 
+      </div>  
+      <img src="" alt="" xid="image2" id="img" style="height:410px;width:481px;margin-top:13%;display:none" __cid="cJzInYr" class="cJzInYr"/>  
+      <div class=" cJzInYr" xid="bottom1" style="width:10%;height:100%;float:left;background:gray" __cid="cJzInYr"> 
+        <div component="$model/UI2/system/components/justep/button/buttonGroup" class="btn-group btn-group-lg btn-group-vertical cJzInYr" xid="buttonGroup1" style="width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/button/buttonGroup'}" data-config="{&quot;tabbed&quot;:true}" __cid="cJzInYr"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-lg cJzInYr" xid="downloadimgBtn" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:downloadimgBtnClick" data-config="{&quot;label&quot;:&quot;下载图片&quot;}" __cid="cJzInYr"> 
+            <i xid="i1" __cid="cJzInYr" class="cJzInYr"/>  
+            <span xid="span1" __cid="cJzInYr" class="cJzInYr">下载图片</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cJzInYr" xid="sendmessageBtn" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:sendmessageBtnClick" data-config="{&quot;label&quot;:&quot;发送消息&quot;}" __cid="cJzInYr"> 
+            <i xid="i2" __cid="cJzInYr" class="cJzInYr"/>  
+            <span xid="span2" __cid="cJzInYr" class="cJzInYr">发送消息</span> 
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <style __cid="cJzInYr" class="cJzInYr">.x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pb3a03686529c4636888bb0a0969ce0ba-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

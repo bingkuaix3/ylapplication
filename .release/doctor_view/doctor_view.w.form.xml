@@ -2,11 +2,11 @@
 
 <div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cRfA3iy" component="$model/UI2/system/components/justep/window/window" design="device:pc" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __justepbasexid__="__baseID__" __cid="cRfA3iy" components="$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/panel/panel,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/button/buttonGroup,$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/button/button,">  
   <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cRfA3iy" class="cRfA3iy"/>  
-  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p50edeb818c734c48b0b544116ec401d3-iosstatusbar cRfA3iy" xid="panel4" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cRfA3iy"> 
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar cRfA3iy" xid="panel4" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cRfA3iy"> 
     <div class="x-panel-top cRfA3iy" xid="top2" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cRfA3iy"> 
-      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cRfA3iy" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" data-config="{&quot;title&quot;:&quot;见好无忧（处理端）&quot;}" __cid="cRfA3iy"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cRfA3iy" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" data-config="{&quot;title&quot;:&quot;见好无忧（显示端）&quot;}" __cid="cRfA3iy"> 
         <div class="x-titlebar-left cRfA3iy" xid="div1" __cid="cRfA3iy"/>  
-        <div class="x-titlebar-title cRfA3iy" xid="div2" style="" __cid="cRfA3iy">见好无忧（处理端）</div>  
+        <div class="x-titlebar-title cRfA3iy" xid="div2" style="" __cid="cRfA3iy">见好无忧（显示端）</div>  
         <div class="x-titlebar-right  cRfA3iy" xid="div3" __cid="cRfA3iy">
           <div class="empty cRfA3iy" __cid="cRfA3iy"/>
         </div> 
@@ -27,6 +27,6 @@
         </div> 
       </div> 
     </div>  
-    <style __cid="cRfA3iy" class="cRfA3iy">.x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p50edeb818c734c48b0b544116ec401d3-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+    <style __cid="cRfA3iy" class="cRfA3iy">.x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p2391cb5443a14e8f85b2bc959a6ba017-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
   </div> 
 </div>
